@@ -11,7 +11,7 @@ This repository showcases my work in:
 - Power BI (Dashboards, Data Models, DAX) 🔧
 - Power Query (Data Transformation) 🔄
 - SQL 🖥
-- Figma (UI/UX Design) 🎨
+- Canva (Design) 🎨
 - Excel (Data Analysis) 📊
 
 For any inquiries, feel free to reach out! ✉️
