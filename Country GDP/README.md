@@ -1,3 +1,6 @@
+![Screenshot_7](https://github.com/user-attachments/assets/08680320-8007-4f37-9659-8bb3731d9d17)
+
+
 Welcome to my portfolio repository! 🎉 
 Here, you'll find examples of my work as a Power BI Analyst, including interactive dashboards, data visualizations, and automation of reporting processes across various business sectors. 📊
 
